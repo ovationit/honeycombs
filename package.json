@@ -1,0 +1,43 @@
+{
+  "name": "jquery-honeycombs",
+  "version": "1.0.0",
+  "description": "jQuery plugin for displaying images in a responsive honeycomb/hexagon grid with caption and anchor",
+  "main": "homeycombs/js/jquery.homeycombs.js",
+  "style": "homeycombs/css/homeycombs.css",
+  "files": [
+    "homeycombs/js/jquery.homeycombs.js",
+    "homeycombs/css/homeycombs.css",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "jquery",
+    "plugin",
+    "honeycomb",
+    "hexagon",
+    "grid",
+    "responsive",
+    "image",
+    "gallery",
+    "jquery-plugin"
+  ],
+  "author": "Nasir Khan",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ovationit/honeycombs.git"
+  },
+  "homepage": "https://github.com/ovationit/honeycombs",
+  "bugs": {
+    "url": "https://github.com/ovationit/honeycombs/issues"
+  },
+  "peerDependencies": {
+    "jquery": ">=1.7.0"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  }
+} 
